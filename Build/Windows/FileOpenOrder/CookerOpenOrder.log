@@ -1,0 +1,1702 @@
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 0
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 1
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 2
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 3
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 4
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 5
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 6
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 7
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 8
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 9
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 10
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 11
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 12
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 13
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 14
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 15
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 16
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 17
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 18
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 19
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 20
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 21
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 22
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 23
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 24
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 25
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 26
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 27
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.ubulk" 28
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 29
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 30
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.ubulk" 31
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 32
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 33
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.ubulk" 34
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 35
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 36
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.ubulk" 37
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 38
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 39
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.ubulk" 40
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 41
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 42
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.ubulk" 43
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 44
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 45
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 46
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 47
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 48
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 49
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 50
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 51
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 52
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 53
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 54
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 55
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 56
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 57
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 58
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 59
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 63
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 64
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 65
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 66
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 67
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 68
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 69
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 70
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 71
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 72
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 73
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 74
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 75
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 76
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 77
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 78
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 79
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 80
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 81
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 82
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 83
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 84
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 85
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 86
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 87
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 88
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 89
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 90
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 91
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 92
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 93
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 94
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 95
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 96
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 97
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 98
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 99
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 100
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 101
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 102
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 103
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 104
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 105
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 106
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 107
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 108
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 109
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 110
+"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 111
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 112
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 113
+"../../../Engine/Content/BasicShapes/Cone.ubulk" 114
+"../../../Engine/Content/BasicShapes/Cone.uasset" 115
+"../../../Engine/Content/BasicShapes/Cone.uexp" 116
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 117
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 118
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 119
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 120
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 121
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 122
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 123
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset" 124
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uexp" 125
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Bin/Anim1.uasset" 126
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Bin/Anim1.uexp" 127
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Bin/Anim2.uasset" 128
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Bin/Anim2.uexp" 129
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 130
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 131
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque1.uasset" 132
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque1.uexp" 133
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/UI/TextInScreen.uasset" 134
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/UI/TextInScreen.uexp" 135
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/UI/GrappleCrosshair.uasset" 136
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/UI/GrappleCrosshair.uexp" 137
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ubulk" 138
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" 139
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uexp" 140
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 141
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 142
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset" 143
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/SK_Mannequin.uexp" 144
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 145
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 146
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 147
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 148
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset" 149
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uexp" 150
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset" 151
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uexp" 152
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset" 153
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uexp" 154
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset" 155
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uexp" 156
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset" 157
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uexp" 158
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset" 159
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uexp" 160
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset" 161
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uexp" 162
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset" 163
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uexp" 164
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset" 165
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uexp" 166
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset" 167
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uexp" 168
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset" 169
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uexp" 170
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset" 171
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uexp" 172
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uasset" 173
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uexp" 174
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset" 175
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uexp" 176
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset" 177
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uexp" 178
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset" 179
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uexp" 180
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset" 181
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uexp" 182
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset" 183
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uexp" 184
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset" 185
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uexp" 186
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset" 187
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uexp" 188
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset" 189
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uexp" 190
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset" 191
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uexp" 192
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset" 193
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uexp" 194
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset" 195
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uexp" 196
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset" 197
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uexp" 198
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset" 199
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uexp" 200
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset" 201
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uexp" 202
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset" 203
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uexp" 204
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset" 205
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uexp" 206
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset" 207
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uexp" 208
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uasset" 209
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uexp" 210
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.ubulk" 211
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset" 212
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uexp" 213
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.ubulk" 214
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset" 215
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uexp" 216
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.ubulk" 217
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset" 218
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uexp" 219
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.ubulk" 220
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset" 221
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uexp" 222
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.ubulk" 223
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset" 224
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uexp" 225
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset" 226
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uexp" 227
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset" 228
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uexp" 229
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset" 230
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uexp" 231
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset" 232
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uexp" 233
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 234
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 235
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 236
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 237
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset" 238
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uexp" 239
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset" 240
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uexp" 241
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.ubulk" 242
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset" 243
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uexp" 244
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.ubulk" 245
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset" 246
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uexp" 247
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.ubulk" 248
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset" 249
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uexp" 250
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.ubulk" 251
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset" 252
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uexp" 253
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.ubulk" 254
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset" 255
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uexp" 256
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.ubulk" 257
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset" 258
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uexp" 259
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/M_Mannequin.uasset" 260
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/M_Mannequin.uexp" 261
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset" 262
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uexp" 263
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.ubulk" 264
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset" 265
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uexp" 266
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.ubulk" 267
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset" 268
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uexp" 269
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.ubulk" 270
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset" 271
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uexp" 272
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset" 273
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uexp" 274
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset" 275
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/PA_Mannequin.uexp" 276
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset" 277
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/SKM_Manny.uexp" 278
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Blueprints/BP_Enemy.uasset" 279
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Blueprints/BP_Enemy.uexp" 280
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Camera/BP_ForceCameraShake.uasset" 281
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Camera/BP_ForceCameraShake.uexp" 282
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 283
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 284
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 285
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uexp" 286
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 287
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 288
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 289
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 290
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 291
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 292
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 293
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 294
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 295
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uexp" 296
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_LocationShapes.uasset" 297
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_LocationShapes.uexp" 298
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 299
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 300
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_CylinderMode.uasset" 301
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_CylinderMode.uexp" 302
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 303
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 304
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 305
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 306
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 307
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 308
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uasset" 309
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uexp" 310
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uasset" 311
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uexp" 312
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uasset" 313
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uexp" 314
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset" 315
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uexp" 316
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 317
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 318
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 319
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 320
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset" 321
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uexp" 322
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset" 323
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uexp" 324
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 325
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 326
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uasset" 327
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uexp" 328
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/CurlNoiseForce.uasset" 329
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/CurlNoiseForce.uexp" 330
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 331
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 332
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 333
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 334
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 335
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 336
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 337
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 338
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset" 339
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uexp" 340
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 341
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 342
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 343
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 344
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 345
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 346
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 347
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uexp" 348
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 349
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 350
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 351
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 352
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 353
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 354
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 355
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 356
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 357
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 358
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 359
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 360
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 361
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 362
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 363
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 364
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 365
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 366
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 367
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 368
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 369
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 370
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 371
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 372
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 373
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 374
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 375
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 376
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 377
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 378
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_ScaleMode.uasset" 379
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_ScaleMode.uexp" 380
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uasset" 381
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uexp" 382
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/XYZRotationToQuaternion.uasset" 383
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/XYZRotationToQuaternion.uexp" 384
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 385
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 386
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 387
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 388
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomUnitVector.uasset" 389
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomUnitVector.uexp" 390
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uasset" 391
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uexp" 392
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AngleUnitConverter.uasset" 393
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AngleUnitConverter.uexp" 394
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_VelocityMode.uasset" 395
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_VelocityMode.uexp" 396
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uasset" 397
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uexp" 398
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uasset" 399
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uexp" 400
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uasset" 401
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uexp" 402
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_RotationMode.uasset" 403
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_RotationMode.uexp" 404
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/TransformStack/TransformStack_Rotation.uasset" 405
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/TransformStack/TransformStack_Rotation.uexp" 406
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CalculateRandomPointInConeSphereIntersection.uasset" 407
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CalculateRandomPointInConeSphereIntersection.uexp" 408
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uasset" 409
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uexp" 410
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uasset" 411
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uexp" 412
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset" 413
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uexp" 414
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 415
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 416
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 417
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 418
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 419
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 420
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 421
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 422
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 423
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 424
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 425
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 426
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 427
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 428
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 429
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 430
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_ConeMode.uasset" 431
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_ConeMode.uexp" 432
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 433
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 434
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset" 435
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uexp" 436
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_OffsetMode.uasset" 437
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_OffsetMode.uexp" 438
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 439
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 440
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 441
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 442
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_BoxPlaneMode.uasset" 443
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_BoxPlaneMode.uexp" 444
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformOrder.uasset" 445
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformOrder.uexp" 446
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagaraRingDiscMode.uasset" 447
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagaraRingDiscMode.uexp" 448
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 449
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 450
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraShapeTorusMode.uasset" 451
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraShapeTorusMode.uexp" 452
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 453
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 454
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateVector2D.uasset" 455
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateVector2D.uexp" 456
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uasset" 457
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uexp" 458
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uasset" 459
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uexp" 460
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uasset" 461
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uexp" 462
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 463
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 464
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uasset" 465
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uexp" 466
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 467
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 468
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 469
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uexp" 470
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformType.uasset" 471
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformType.uexp" 472
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/ShapeLocation.uasset" 473
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/ShapeLocation.uexp" 474
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 475
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 476
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 477
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 478
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 479
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uexp" 480
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 481
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 482
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 483
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uexp" 484
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/SpinnigSpiritCross.uasset" 485
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/SpinnigSpiritCross.uexp" 486
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/ForcePushBass.ubulk" 487
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/ForcePushBass.uasset" 488
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/ForcePushBass.uexp" 489
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/Cue_ForceSound.uasset" 490
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/Cue_ForceSound.uexp" 491
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/AnimStates.uasset" 492
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/AnimStates.uexp" 493
+"../../../Engine/Content/EngineMeshes/MaterialSphere.ubulk" 494
+"../../../Engine/Content/EngineMeshes/MaterialSphere.uasset" 495
+"../../../Engine/Content/EngineMeshes/MaterialSphere.uexp" 496
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/BPInterface_Custom.uasset" 497
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/BPInterface_Custom.uexp" 498
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 499
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 500
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 501
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Female_Mask.ubulk" 502
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Female_Mask.uasset" 503
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Female_Mask.uexp" 504
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 505
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 506
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 507
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 508
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 509
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 510
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 511
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 512
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 513
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 514
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 515
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 516
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 517
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Male_N.ubulk" 518
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Male_N.uasset" 519
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Male_N.uexp" 520
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 521
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 522
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 523
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 524
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 525
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 526
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_UE4Logo_Mask.ubulk" 527
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_UE4Logo_Mask.uasset" 528
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_UE4Logo_Mask.uexp" 529
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 530
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 531
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 532
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 533
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Male_Mask.ubulk" 534
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Male_Mask.uasset" 535
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Male_Mask.uexp" 536
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/M_Male_Body.uasset" 537
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/M_Male_Body.uexp" 538
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Female_N.ubulk" 539
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Female_N.uasset" 540
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_Female_N.uexp" 541
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MI_Female_Body.uasset" 542
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/MI_Female_Body.uexp" 543
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 544
+"../../../Engine/Content/EngineMeshes/Humanoid.uexp" 545
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Mesh/UE_Mannequin_Female/UE_Mannequin_Skeleton.uasset" 546
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Mesh/UE_Mannequin_Female/UE_Mannequin_Skeleton.uexp" 547
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Mesh/UE_Mannequin_Female/UE_Mannequin_Female_PhysicsAsset.uasset" 548
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Mesh/UE_Mannequin_Female/UE_Mannequin_Female_PhysicsAsset.uexp" 549
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_UE4Logo_N.ubulk" 550
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_UE4Logo_N.uasset" 551
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Textures/T_UE4Logo_N.uexp" 552
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 553
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/M_UE4Man_ChestLogo.uexp" 554
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Mesh/UE_Mannequin_Female/UE_Mannequin_Female.uasset" 555
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Mesh/UE_Mannequin_Female/UE_Mannequin_Female.uexp" 556
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 557
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uexp" 558
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 559
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uexp" 560
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 561
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uexp" 562
+"../../../Engine/Content/MaterialTemplates/Textures/T_Noise01.ubulk" 563
+"../../../Engine/Content/MaterialTemplates/Textures/T_Noise01.uasset" 564
+"../../../Engine/Content/MaterialTemplates/Textures/T_Noise01.uexp" 565
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/Mat_Niagara/MAT_flash.uasset" 566
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/Mat_Niagara/MAT_flash.uexp" 567
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/Mat_Niagara/MAT_flash_trans.uasset" 568
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/Mat_Niagara/MAT_flash_trans.uexp" 569
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 570
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 571
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 572
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uexp" 573
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/FX_FlashEditable.uasset" 574
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/FX_FlashEditable.uexp" 575
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/jump_falling.uasset" 576
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/jump_falling.uexp" 577
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/02_shot/02_shot_loop.uasset" 578
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/02_shot/02_shot_loop.uexp" 579
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/caution_f.uasset" 580
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/caution_f.uexp" 581
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/caution_l.uasset" 582
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/caution_l.uexp" 583
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/caution_b.uasset" 584
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/caution_b.uexp" 585
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/caution_r.uasset" 586
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/caution_r.uexp" 587
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/idle/01_idle.uasset" 588
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/idle/01_idle.uexp" 589
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/AnimationsCarlos/BS_Movement.uasset" 590
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/AnimationsCarlos/BS_Movement.uexp" 591
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/07_force/07_force.uasset" 592
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/07_force/07_force.uexp" 593
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/jump_start.uasset" 594
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/jump_start.uexp" 595
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/AnimationsCarlos/BP_AnimPlayer.uasset" 596
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/AnimationsCarlos/BP_AnimPlayer.uexp" 597
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/EFieldForceVel.uasset" 598
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/EFieldForceVel.uexp" 599
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/Enum_Field.uasset" 600
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/Enum_Field.uexp" 601
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/M_FieldVolumePreview.uasset" 602
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/M_FieldVolumePreview.uexp" 603
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/MI_FieldVolumePreview.uasset" 604
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/MI_FieldVolumePreview.uexp" 605
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 606
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 607
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 609
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/M_FieldRadiusPreview.uasset" 610
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/M_FieldRadiusPreview.uexp" 611
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/MI_FieldRadiusPreview.uasset" 612
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/MI_FieldRadiusPreview.uexp" 613
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/SM_FieldArrow.ubulk" 614
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/SM_FieldArrow.uasset" 615
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/SM_FieldArrow.uexp" 616
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/DefaultTextMaterialOpaque.uasset" 617
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/DefaultTextMaterialOpaque.uexp" 618
+"../../../Engine/Content/BasicShapes/Cube.ubulk" 619
+"../../../Engine/Content/BasicShapes/Cube.uasset" 620
+"../../../Engine/Content/BasicShapes/Cube.uexp" 621
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/EFieldShapeType.uasset" 622
+"../../../Engine/Content/EditorResources/FieldNodes/_Resources/EFieldShapeType.uexp" 623
+"../../../Engine/Content/BasicShapes/Sphere.ubulk" 624
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 625
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 626
+"../../../Engine/Content/BasicShapes/Plane.ubulk" 627
+"../../../Engine/Content/BasicShapes/Plane.uasset" 628
+"../../../Engine/Content/BasicShapes/Plane.uexp" 629
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 630
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 631
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/FS_MasterFieldEdit.uasset" 632
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/FS_MasterFieldEdit.uexp" 633
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Blueprints/StopNiagaraEnum.uasset" 634
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Blueprints/StopNiagaraEnum.uexp" 635
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uasset" 636
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uexp" 637
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/TorusNiagaraPink.uasset" 638
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/TorusNiagaraPink.uexp" 639
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Camera/BP_ForceIntenseCameraShake.uasset" 640
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Camera/BP_ForceIntenseCameraShake.uexp" 641
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/CubeGrabbedSound.ubulk" 642
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/CubeGrabbedSound.uasset" 643
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/CubeGrabbedSound.uexp" 644
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/Cue_GrabbedCube.uasset" 645
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/Cue_GrabbedCube.uexp" 646
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/UI/GrappleCrosshair_Resize.uasset" 647
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/UI/GrappleCrosshair_Resize.uexp" 648
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/UI/GrappleHUD.uasset" 649
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/UI/GrappleHUD.uexp" 650
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" 651
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uexp" 652
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/FS_MasterFieldImplosion.uasset" 653
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/FS_MasterFieldImplosion.uexp" 654
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/M_Solid.uasset" 655
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/M_Solid.uexp" 656
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset" 657
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/MI_Solid_Blue.uexp" 658
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/VortexSound.ubulk" 659
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/VortexSound.uasset" 660
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/VortexSound.uexp" 661
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/Cue_Vortex.uasset" 662
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/Cue_Vortex.uexp" 663
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/AlienVoice.ubulk" 664
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/AlienVoice.uasset" 665
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/AlienVoice.uexp" 666
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/Cue_AlienVoice.uasset" 667
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/Cue_AlienVoice.uexp" 668
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Camera/BP_CameraShake.uasset" 669
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Camera/BP_CameraShake.uexp" 670
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 671
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uexp" 672
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 673
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uexp" 674
+"../../../Engine/Content/EngineMaterials/Grid.ubulk" 675
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 676
+"../../../Engine/Content/EngineMaterials/Grid.uexp" 677
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 678
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 679
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 680
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 681
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 682
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 683
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 684
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 685
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 686
+"../../../Engine/Content/EditorMaterials/GeometryCollection/SelectedGeometryMaterial.uasset" 687
+"../../../Engine/Content/EditorMaterials/GeometryCollection/SelectedGeometryMaterial.uexp" 688
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/SM_ChamferCube4_GeometryCollection.uasset" 689
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/SM_ChamferCube4_GeometryCollection.uexp" 690
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/BP_BreakableCube.uasset" 691
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/BP_BreakableCube.uexp" 692
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/ForceSound.ubulk" 693
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/ForceSound.uasset" 694
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/ForceSound.uexp" 695
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/NiagaraSound/NewSoundConcurrency.uasset" 696
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/NiagaraSound/NewSoundConcurrency.uexp" 697
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/NiagaraSound/NewSoundAttenuation.uasset" 698
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Sound/NiagaraSound/NewSoundAttenuation.uexp" 699
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/TorusNiagaraBlue.uasset" 700
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/TorusNiagaraBlue.uexp" 701
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/TorusNiagaraYellow.uasset" 702
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/TorusNiagaraYellow.uexp" 703
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/TorusNiagaraPinkYellow.uasset" 704
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/TorusNiagaraPinkYellow.uexp" 705
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/TorusNiagaraWhiteRed.uasset" 706
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/TorusNiagaraWhiteRed.uexp" 707
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/SpinningSpiritSingle.uasset" 708
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/SpinningSpiritSingle.uexp" 709
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/SpinningSpiritBall.uasset" 710
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/SpinningSpiritBall.uexp" 711
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/SpinnigSpiritX.uasset" 712
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/SpinnigSpiritX.uexp" 713
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/PointAttractionForce.uasset" 714
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/PointAttractionForce.uexp" 715
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 716
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uexp" 717
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/GPUSprite.uasset" 718
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/GPUSprite.uexp" 719
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uasset" 720
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uexp" 721
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uasset" 722
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uexp" 723
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectLinearColorFromArray.uasset" 724
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectLinearColorFromArray.uexp" 725
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/FX_FlashRed.uasset" 726
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/FX_FlashRed.uexp" 727
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/FX_Flash.uasset" 728
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/FX_Flash.uexp" 729
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/Mat_Niagara/MAT_flash_add.uasset" 730
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Niagara/Mat_Niagara/MAT_flash_add.uexp" 731
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/M_MapfloorWhitefloor.uasset" 732
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/M_MapfloorWhitefloor.uexp" 733
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 734
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 735
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 736
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 737
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 738
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 739
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 740
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 741
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 742
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 743
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 744
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 745
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_start_bl.uasset" 746
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_start_bl.uexp" 747
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_start_f.uasset" 748
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_start_f.uexp" 749
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_start_r.uasset" 750
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_start_r.uexp" 751
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_start_l.uasset" 752
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_start_l.uexp" 753
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_start_br.uasset" 754
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_start_br.uexp" 755
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/BSrun_start.uasset" 756
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/BSrun_start.uexp" 757
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_fr_loop.uasset" 758
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_fr_loop.uexp" 759
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_fl_loop.uasset" 760
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_fl_loop.uexp" 761
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_f_loop.uasset" 762
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_f_loop.uexp" 763
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/BSrun_loop.uasset" 764
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/BSrun_loop.uexp" 765
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_fr_end.uasset" 766
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_fr_end.uexp" 767
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_f_end.uasset" 768
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_f_end.uexp" 769
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_fl_end.uasset" 770
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_fl_end.uexp" 771
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/BSrun_end.uasset" 772
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/BSrun_end.uexp" 773
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/BScaution.uasset" 774
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/BScaution.uexp" 775
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_start_r.uasset" 776
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_start_r.uexp" 777
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_start_l.uasset" 778
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_start_l.uexp" 779
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_start_f.uasset" 780
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_start_f.uexp" 781
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_start_br.uasset" 782
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_start_br.uexp" 783
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_start_bl.uasset" 784
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/RootMotion/run_start_bl.uexp" 785
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_f_end.uasset" 786
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_f_end.uexp" 787
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_fr_end.uasset" 788
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_fr_end.uexp" 789
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_fl_end.uasset" 790
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/run_fl_end.uexp" 791
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 792
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 793
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 794
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 795
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 796
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 797
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 798
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 799
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 800
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 801
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 802
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 803
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 804
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 805
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 806
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 807
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 808
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 809
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 810
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 811
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_r.uasset" 812
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_r.uexp" 813
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_l.uasset" 814
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_l.uexp" 815
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_fr.uasset" 816
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_fr.uexp" 817
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_fl.uasset" 818
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_fl.uexp" 819
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_f.uasset" 820
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_f.uexp" 821
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_br.uasset" 822
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_br.uexp" 823
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_bl.uasset" 824
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_bl.uexp" 825
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_b.uasset" 826
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/RootMotion/dodge_b.uexp" 827
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/death/death.uasset" 828
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/death/death.uexp" 829
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/Inplace/damage_large_f.uasset" 830
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/Inplace/damage_large_f.uexp" 831
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/Inplace/damage_large_b.uasset" 832
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/Inplace/damage_large_b.uexp" 833
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 834
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 835
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 836
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 837
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 838
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 839
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 840
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 841
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 842
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_Ramp.ubulk" 843
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_Ramp.uasset" 844
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_Ramp.uexp" 845
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.ubulk" 846
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset" 847
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uexp" 848
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_Cylinder.ubulk" 849
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset" 850
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_Cylinder.uexp" 851
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_Cube.ubulk" 852
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 853
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 854
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset" 855
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uexp" 856
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset" 857
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uexp" 858
+"../../../Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/AliasMaster.uasset" 859
+"../../../Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/AliasMaster.uexp" 860
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_ChamferCube.ubulk" 861
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset" 862
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/LevelPrototyping/Meshes/SM_ChamferCube.uexp" 863
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/NonDestructableCube.uasset" 864
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Destruction/NonDestructableCube.uexp" 865
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.ubulk" 866
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset" 867
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uexp" 868
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.ubulk" 869
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset" 870
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uexp" 871
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset" 872
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uexp" 873
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.ubulk" 874
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset" 875
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uexp" 876
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset" 877
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uexp" 878
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.ubulk" 879
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset" 880
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uexp" 881
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.ubulk" 882
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset" 883
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uexp" 884
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.ubulk" 885
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset" 886
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uexp" 887
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset" 888
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uexp" 889
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.ubulk" 890
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset" 891
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uexp" 892
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.ubulk" 893
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset" 894
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uexp" 895
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset" 896
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uexp" 897
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset" 898
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uexp" 899
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset" 900
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uexp" 901
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset" 902
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uexp" 903
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset" 904
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uexp" 905
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset" 906
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uexp" 907
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset" 908
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uexp" 909
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/IK_Mannequin.uasset" 910
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/IK_Mannequin.uexp" 911
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uasset" 912
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uexp" 913
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uasset" 914
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uexp" 915
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/Jog_Fwd.uasset" 916
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/Jog_Fwd.uexp" 917
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Walk.uasset" 918
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Walk.uexp" 919
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Special.uasset" 920
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Special.uexp" 921
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Run.uasset" 922
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Run.uexp" 923
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_RangeAttack.uasset" 924
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_RangeAttack.uexp" 925
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Idle.uasset" 926
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Idle.uexp" 927
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Death.uasset" 928
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Death.uexp" 929
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Attack03.uasset" 930
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Attack03.uexp" 931
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Attack02.uasset" 932
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Attack02.uexp" 933
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Attack01.uasset" 934
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE5/EM_Attack01.uexp" 935
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/UE4_Mannequin_Skeleton.uasset" 936
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/UE4_Mannequin_Skeleton.uexp" 937
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Walk.uasset" 938
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Walk.uexp" 939
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Special.uasset" 940
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Special.uexp" 941
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Run.uasset" 942
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Run.uexp" 943
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_RangeAttack.uasset" 944
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_RangeAttack.uexp" 945
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Idle.uasset" 946
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Idle.uexp" 947
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Death.uasset" 948
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Death.uexp" 949
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Attack03.uasset" 950
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Attack03.uexp" 951
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Attack02.uasset" 952
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Attack02.uexp" 953
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Attack01.uasset" 954
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequin_UE4/Animations/MagicAnim/UE4/EM_Attack01.uexp" 955
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 956
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 957
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 958
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 959
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 960
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 961
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 962
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 963
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 964
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 965
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 966
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 967
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 968
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 969
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 970
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 971
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 972
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 973
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 974
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 975
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 976
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 977
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 978
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 979
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 980
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 981
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 982
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 983
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 984
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 985
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 986
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 987
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 988
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 989
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 990
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 991
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 992
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 993
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 994
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 995
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 996
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 997
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 998
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 999
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 1000
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 1001
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 1002
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 1003
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 1004
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 1005
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 1006
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 1007
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 1008
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 1009
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 1010
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 1011
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 1012
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 1013
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 1014
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 1015
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 1016
+"../../../Engine/Content/EngineMeshes/Sphere.ubulk" 1017
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 1018
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 1019
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 1020
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 1021
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 1022
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 1023
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 1024
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 1025
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 1026
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 1027
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 1028
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 1029
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 1030
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 1031
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 1032
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 1033
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 1034
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 1035
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 1036
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 1037
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 1038
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1039
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 1040
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 1041
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 1042
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 1043
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 1044
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1045
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 1046
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 1047
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 1048
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 1049
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 1050
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 1051
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 1052
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1053
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 1054
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 1055
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 1056
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 1057
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 1058
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/RTG_Mannequin.uasset" 1059
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/RTG_Mannequin.uexp" 1060
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 1061
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 1062
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 1063
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 1064
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1065
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 1066
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 1067
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 1068
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 1069
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 1070
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 1071
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 1072
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 1073
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 1074
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 1075
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 1076
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 1077
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 1078
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 1079
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 1080
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 1081
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 1082
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 1083
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 1084
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 1085
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 1086
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 1087
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 1088
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 1089
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 1090
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 1091
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 1092
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 1093
+"../../../Engine/Content/EngineResources/Black.uasset" 1094
+"../../../Engine/Content/EngineResources/Black.uexp" 1095
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 1096
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 1097
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.ubulk" 1098
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset" 1099
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uexp" 1100
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.ubulk" 1101
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uasset" 1102
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uexp" 1103
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.ubulk" 1104
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset" 1105
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uexp" 1106
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.ubulk" 1107
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset" 1108
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uexp" 1109
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.ubulk" 1110
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uasset" 1111
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uexp" 1112
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.ubulk" 1113
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uasset" 1114
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uexp" 1115
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.ubulk" 1116
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset" 1117
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uexp" 1118
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.ubulk" 1119
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset" 1120
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uexp" 1121
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.ubulk" 1122
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uasset" 1123
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uexp" 1124
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.ubulk" 1125
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uasset" 1126
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uexp" 1127
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.ubulk" 1128
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uasset" 1129
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uexp" 1130
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.ubulk" 1131
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uasset" 1132
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uexp" 1133
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.ubulk" 1134
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset" 1135
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uexp" 1136
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset" 1137
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uexp" 1138
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.ubulk" 1139
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uasset" 1140
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uexp" 1141
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset" 1142
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uexp" 1143
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset" 1144
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uexp" 1145
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.uasset" 1146
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.uexp" 1147
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.uasset" 1148
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.uexp" 1149
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.uasset" 1150
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.uexp" 1151
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.uasset" 1152
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.uexp" 1153
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.uasset" 1154
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.uexp" 1155
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.uasset" 1156
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.uexp" 1157
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.uasset" 1158
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.uexp" 1159
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.uasset" 1160
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.uexp" 1161
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.uasset" 1162
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.uexp" 1163
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.uasset" 1164
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.uexp" 1165
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.uasset" 1166
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.uexp" 1167
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.uasset" 1168
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.uexp" 1169
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.uasset" 1170
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.uexp" 1171
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.uasset" 1172
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.uexp" 1173
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.uasset" 1174
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.uexp" 1175
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.uasset" 1176
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.uexp" 1177
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.uasset" 1178
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.uexp" 1179
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.uasset" 1180
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.uexp" 1181
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.uasset" 1182
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.uexp" 1183
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.uasset" 1184
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.uexp" 1185
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.uasset" 1186
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.uexp" 1187
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.uasset" 1188
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.uexp" 1189
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.uasset" 1190
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.uexp" 1191
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.uasset" 1192
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.uexp" 1193
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.uasset" 1194
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.uexp" 1195
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.uasset" 1196
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.uexp" 1197
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.uasset" 1198
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.uexp" 1199
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.uasset" 1200
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.uexp" 1201
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.uasset" 1202
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.uexp" 1203
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset" 1204
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/SKM_Quinn.uexp" 1205
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset" 1206
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uexp" 1207
+"../../../Engine/Content/EngineSounds/Master.uasset" 1208
+"../../../Engine/Content/EngineSounds/Master.uexp" 1209
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/Mannequin_LODSettings.uasset" 1210
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Meshes/Mannequin_LODSettings.uexp" 1211
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset" 1212
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uexp" 1213
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset" 1214
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uexp" 1215
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 1216
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 1217
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset" 1218
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uexp" 1219
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset" 1220
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uexp" 1221
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset" 1222
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uexp" 1223
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset" 1224
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uexp" 1225
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset" 1226
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uexp" 1227
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset" 1228
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uexp" 1229
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset" 1230
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uexp" 1231
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset" 1232
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uexp" 1233
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset" 1234
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uexp" 1235
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset" 1236
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Land.uexp" 1237
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset" 1238
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uexp" 1239
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/ABP_Manny.uasset" 1240
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/ABP_Manny.uexp" 1241
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset" 1242
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Characters/Mannequins/Animations/ABP_Quinn.uexp" 1243
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/AnimationsCarlos/BS1D_Movement.uasset" 1244
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/AnimationsCarlos/BS1D_Movement.uexp" 1245
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 1246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 1247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 1248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 1249
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1250
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 1251
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1252
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 1253
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1254
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 1255
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 1256
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 1257
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1258
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 1259
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1260
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 1261
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.ubulk" 1262
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1263
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 1264
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 1265
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1266
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 1267
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1268
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 1269
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1270
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 1271
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 1272
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1273
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 1274
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.ubulk" 1275
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1276
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 1277
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.ubulk" 1278
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1279
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 1280
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 1281
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1282
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 1283
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1284
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 1285
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1286
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 1287
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1288
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 1289
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 1290
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 1291
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1292
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 1293
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 1294
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 1295
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 1296
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 1297
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 1298
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk" 1299
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 1300
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 1301
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk" 1302
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 1303
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 1304
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk" 1305
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 1306
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 1307
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk" 1308
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 1309
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 1310
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk" 1311
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 1312
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 1313
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk" 1314
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 1315
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 1316
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk" 1317
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 1318
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 1319
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk" 1320
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 1321
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 1322
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk" 1323
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 1324
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 1325
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk" 1326
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 1327
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 1328
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk" 1329
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 1330
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 1331
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 1332
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 1333
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 1334
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk" 1335
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 1336
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 1337
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk" 1338
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 1339
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 1340
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.ubulk" 1341
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 1342
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 1343
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.ubulk" 1344
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 1345
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 1346
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.ubulk" 1347
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 1348
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 1349
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.ubulk" 1350
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 1351
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 1352
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.ubulk" 1353
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 1354
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 1355
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.ubulk" 1356
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 1357
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 1358
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.ubulk" 1359
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 1360
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 1361
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.ubulk" 1362
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 1363
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 1364
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.ubulk" 1365
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 1366
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 1367
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk" 1368
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 1369
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 1370
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk" 1371
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 1372
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 1373
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk" 1374
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 1375
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 1376
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk" 1377
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 1378
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 1379
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk" 1380
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 1381
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 1382
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk" 1383
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 1384
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 1385
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk" 1386
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 1387
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 1388
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.ubulk" 1389
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 1390
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 1391
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.ubulk" 1392
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 1393
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 1394
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk" 1395
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 1396
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 1397
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk" 1398
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 1399
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 1400
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk" 1401
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 1402
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 1403
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.ubulk" 1404
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 1405
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 1406
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk" 1407
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 1408
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 1409
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk" 1410
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 1411
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 1412
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk" 1413
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 1414
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 1415
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk" 1416
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 1417
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 1418
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk" 1419
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 1420
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 1421
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk" 1422
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 1423
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 1424
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk" 1425
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 1426
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 1427
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk" 1428
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 1429
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 1430
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk" 1431
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 1432
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 1433
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk" 1434
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 1435
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 1436
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk" 1437
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 1438
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 1439
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk" 1440
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 1441
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 1442
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk" 1443
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 1444
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 1445
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk" 1446
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 1447
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 1448
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk" 1449
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 1450
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 1451
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk" 1452
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 1453
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 1454
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk" 1455
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 1456
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 1457
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 1458
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 1459
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 1460
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 1461
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 1462
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 1463
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 1464
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 1465
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 1466
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 1467
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 1468
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 1469
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 1470
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 1471
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 1472
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 1473
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 1474
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 1475
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 1476
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 1477
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 1478
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 1479
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 1480
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 1481
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 1482
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 1483
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 1484
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 1485
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 1486
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 1487
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 1488
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 1489
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 1490
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 1491
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp" 1492
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 1493
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uexp" 1494
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset" 1495
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uexp" 1496
+"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 1497
+"../../../Engine/Content/EngineMaterials/HairColorMap.uexp" 1498
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 1499
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uexp" 1500
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 1501
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 1502
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 1503
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 1504
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Bin/CR_Mannequin_Body_Take1.uasset" 1505
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Bin/CR_Mannequin_Body_Take1.uexp" 1506
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Bin/CR_Mannequin_Body_Take2.uasset" 1507
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/Bin/CR_Mannequin_Body_Take2.uexp" 1508
+"../../../Engine/Content/Maps/Templates/HLODs/HLODLayer_Instanced.uasset" 1509
+"../../../Engine/Content/Maps/Templates/HLODs/HLODLayer_Instanced.uexp" 1510
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" 1511
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uexp" 1512
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Maps/ThirdPersonMap.uexp" 1513
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/ThirdPerson/Maps/ThirdPersonMap.umap" 1514
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/02_shot/02_shot_end.uasset" 1515
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/02_shot/02_shot_end.uexp" 1516
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/02_shot/02_shot_start.uasset" 1517
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/02_shot/02_shot_start.uexp" 1518
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/02_shot/02_shot_all.uasset" 1519
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/02_shot/02_shot_all.uexp" 1520
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/emote/12_emote_grace/12_emote_grace.uasset" 1521
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/emote/12_emote_grace/12_emote_grace.uexp" 1522
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_fr.uasset" 1523
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_fr.uexp" 1524
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/08_triplemagic/08_triplemagic.uasset" 1525
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/08_triplemagic/08_triplemagic.uexp" 1526
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Inplace/05_chanting_end.uasset" 1527
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Inplace/05_chanting_end.uexp" 1528
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/jump_land.uasset" 1529
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/locomotion/Inplace/jump_land.uexp" 1530
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_l.uasset" 1531
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_l.uexp" 1532
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Rootmotion/03_shotS_end.uasset" 1533
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Rootmotion/03_shotS_end.uexp" 1534
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_loopB.uasset" 1535
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_loopB.uexp" 1536
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/Inplace/damage_f.uasset" 1537
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/Inplace/damage_f.uexp" 1538
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Inplace/03_shotS_end.uasset" 1539
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Inplace/03_shotS_end.uexp" 1540
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_start.uasset" 1541
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_start.uexp" 1542
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/10_buff_attatch/Mesh/10_buff_attatchSKL_Skeleton.uasset" 1543
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/10_buff_attatch/Mesh/10_buff_attatchSKL_Skeleton.uexp" 1544
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/10_buff_attatch/10_buff_attatchSKL_anim.uasset" 1545
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/10_buff_attatch/10_buff_attatchSKL_anim.uexp" 1546
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Rootmotion/06_chanting_loopB.uasset" 1547
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Rootmotion/06_chanting_loopB.uexp" 1548
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Rootmotion/03_shotS_loop.uasset" 1549
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Rootmotion/03_shotS_loop.uexp" 1550
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Inplace/04_beam_start.uasset" 1551
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Inplace/04_beam_start.uexp" 1552
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Rootmotion/06_chanting_middle.uasset" 1553
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Rootmotion/06_chanting_middle.uexp" 1554
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/09_football/Rootmotion/09_football.uasset" 1555
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/09_football/Rootmotion/09_football.uexp" 1556
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_f.uasset" 1557
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_f.uexp" 1558
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Rootmotion/04_beam_end.uasset" 1559
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Rootmotion/04_beam_end.uexp" 1560
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_1.uasset" 1561
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_1.uexp" 1562
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_2.uasset" 1563
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_2.uexp" 1564
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_3.uasset" 1565
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_3.uexp" 1566
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_4.uasset" 1567
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_4.uexp" 1568
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_5.uasset" 1569
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_5.uexp" 1570
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/08_combo_attatch/Mesh/08_combo_attatchSKL_Skeleton.uasset" 1571
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/08_combo_attatch/Mesh/08_combo_attatchSKL_Skeleton.uexp" 1572
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/08_combo_attatch/Mesh/08_combo_attatchSKL.uasset" 1573
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/08_combo_attatch/Mesh/08_combo_attatchSKL.uexp" 1574
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1575
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1576
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1577
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1578
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1579
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1580
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1581
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1582
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1583
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1584
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1585
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1586
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1587
+"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 1588
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1589
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1590
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1591
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1592
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1593
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1594
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1595
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1596
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Rootmotion/04_beam_start.uasset" 1597
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Rootmotion/04_beam_start.uexp" 1598
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/RootMotion/damage_large_f.uasset" 1599
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/RootMotion/damage_large_f.uexp" 1600
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_loopA.uasset" 1601
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_loopA.uexp" 1602
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_end.uasset" 1603
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_end.uexp" 1604
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_middle.uasset" 1605
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_middle.uexp" 1606
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_all.uasset" 1607
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Inplace/06_chanting_all.uexp" 1608
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Inplace/03_shotS_start.uasset" 1609
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Inplace/03_shotS_start.uexp" 1610
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Inplace/03_shotS_loop.uasset" 1611
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Inplace/03_shotS_loop.uexp" 1612
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Inplace/03_shotS_all.uasset" 1613
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Inplace/03_shotS_all.uexp" 1614
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/10_buff_attatch/Mesh/10_buff_attatchSKL.uasset" 1615
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/10_buff_attatch/Mesh/10_buff_attatchSKL.uexp" 1616
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Inplace/04_beam_end.uasset" 1617
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Inplace/04_beam_end.uexp" 1618
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Inplace/04_beam_loop.uasset" 1619
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Inplace/04_beam_loop.uexp" 1620
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Inplace/04_beam_all.uasset" 1621
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Inplace/04_beam_all.uexp" 1622
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Rootmotion/05_chanting_loop.uasset" 1623
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Rootmotion/05_chanting_loop.uexp" 1624
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/09_football/Inplace/09_football.uasset" 1625
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/09_football/Inplace/09_football.uexp" 1626
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_r.uasset" 1627
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_r.uexp" 1628
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Rootmotion/06_chanting_end.uasset" 1629
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/06_chanting/Rootmotion/06_chanting_end.uexp" 1630
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/08_combo_attatch/08_combo_attachSKL_anim.uasset" 1631
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/08_combo_attatch/08_combo_attachSKL_anim.uexp" 1632
+"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset" 1633
+"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uexp" 1634
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Rootmotion/03_shotS_start.uasset" 1635
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/03_shotS/Rootmotion/03_shotS_start.uexp" 1636
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/10_buff/10_buff.uasset" 1637
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/10_buff/10_buff.uexp" 1638
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/misc/reset.uasset" 1639
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/misc/reset.uexp" 1640
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Inplace/05_chanting_start.uasset" 1641
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Inplace/05_chanting_start.uexp" 1642
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Rootmotion/05_chanting_end.uasset" 1643
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Rootmotion/05_chanting_end.uexp" 1644
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Rootmotion/05_chanting_start.uasset" 1645
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Rootmotion/05_chanting_start.uexp" 1646
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Inplace/05_chanting_loop.uasset" 1647
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Inplace/05_chanting_loop.uexp" 1648
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/emote/11_emote_spin/Rootmotion/11_emote_spin.uasset" 1649
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/emote/11_emote_spin/Rootmotion/11_emote_spin.uexp" 1650
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Maps/Showcase_BuiltData.ubulk" 1651
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Maps/Showcase_BuiltData.uasset" 1652
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Maps/Showcase_BuiltData.uexp" 1653
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_2s.uasset" 1654
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_2s.uexp" 1655
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_1s.uasset" 1656
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_1s.uexp" 1657
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_3s.uasset" 1658
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_3s.uexp" 1659
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_4s.uasset" 1660
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_4s.uexp" 1661
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_5s.uasset" 1662
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/13_combo_5s.uexp" 1663
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/combo_all.uasset" 1664
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/13_basiccombo/combo_all.uexp" 1665
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/emote/11_emote_spin/Inplace/11_emote_spin.uasset" 1666
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/emote/11_emote_spin/Inplace/11_emote_spin.uexp" 1667
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/Inplace/damage_b.uasset" 1668
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/Inplace/damage_b.uexp" 1669
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/09_football_attatch/Mesh/09_ball_mdl_Physics.uasset" 1670
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/09_football_attatch/Mesh/09_ball_mdl_Physics.uexp" 1671
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/09_football_attatch/Mesh/Material/M_ball.uasset" 1672
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/09_football_attatch/Mesh/Material/M_ball.uexp" 1673
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/09_football_attatch/Mesh/09_ball_mdl_Skeleton.uasset" 1674
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/09_football_attatch/Mesh/09_ball_mdl_Skeleton.uexp" 1675
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/09_football_attatch/Mesh/09_ball_mdl.uasset" 1676
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/09_football_attatch/Mesh/09_ball_mdl.uexp" 1677
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_b.uasset" 1678
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_b.uexp" 1679
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Rootmotion/04_beam_loop.uasset" 1680
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/04_beam/Rootmotion/04_beam_loop.uexp" 1681
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/M_Mapfloor.uasset" 1682
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/UE_Mannequin/Materials/M_Mapfloor.uexp" 1683
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_br.uasset" 1684
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_br.uexp" 1685
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_fl.uasset" 1686
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_fl.uexp" 1687
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/RootMotion/damage_large_b.uasset" 1688
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/damage/RootMotion/damage_large_b.uexp" 1689
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/09_football_attatch/09_football_ball_anim.uasset" 1690
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dummy_attatch/09_football_attatch/09_football_ball_anim.uexp" 1691
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_bl.uasset" 1692
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/dodge/Inplace/dodge_bl.uexp" 1693
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Inplace/05_chanting_all.uasset" 1694
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Animations/attack/05_chanting/Inplace/05_chanting_all.uexp" 1695
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Maps/Showcase.uexp" 1696
+"C:/Users/Carlos/Documents/Unreal Projects/ThirdPersonJedi/Content/MagicalAnimSet/Maps/Showcase.umap" 1697
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1698
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1699
+"../../../Engine/Content/Maps/Entry.uexp" 1700
+"../../../Engine/Content/Maps/Entry.umap" 1701
